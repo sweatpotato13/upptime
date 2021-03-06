@@ -22,18 +22,20 @@
     "url": "http://api.cutewisp.com/v1.0/cf/CuteWisp",
     "icon": "https://favicons.githubusercontent.com/api.cutewisp.com",
     "slug": "github-psbadge-api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1070,
-    "timeDay": 1295,
-    "timeWeek": 1128,
-    "timeMonth": 1070,
-    "timeYear": 1070,
-    "dailyMinutesDown": {}
+    "time": 1016,
+    "timeDay": 859,
+    "timeWeek": 1039,
+    "timeMonth": 1016,
+    "timeYear": 1016,
+    "dailyMinutesDown": {
+      "2021-03-06": 0
+    }
   },
   {
     "name": "Code server",
