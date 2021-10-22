@@ -7,7 +7,7 @@ sites:
   - name: Cutewisp 
     url: https://cutewisp.com
   - name: Github psbadge API server
-    url: https://api.cutewisp.com/ac/CuteWisp
+    url: https://api.cutewisp.com/api/ac/CuteWisp
   - name: Code server
     url: https://code.cutewisp.com/
   - name: Blog
