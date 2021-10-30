@@ -4,12 +4,8 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Cutewisp 
-    url: https://cutewisp.com
   - name: Github psbadge API server
     url: https://api.cutewisp.com/api/ac/CuteWisp
-  - name: Code server
-    url: https://code.cutewisp.com/
   - name: Blog
     url: https://blog.cutewisp.com
 
