@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/api.cutewisp.com",
     "slug": "github-psbadge-api-server",
     "status": "down",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -13,8 +13,8 @@
     "time": 1460,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1143,
-    "timeYear": 1487,
+    "timeMonth": 0,
+    "timeYear": 1488,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 90,
-    "timeWeek": 123,
-    "timeMonth": 132,
-    "timeYear": 138,
+    "timeDay": 294,
+    "timeWeek": 152,
+    "timeMonth": 136,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   }
 ]
