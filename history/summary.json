@@ -4,7 +4,7 @@
     "url": "https://api.cutewisp.com/api/ac/CuteWisp",
     "icon": "https://favicons.githubusercontent.com/api.cutewisp.com",
     "slug": "github-psbadge-api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1535,
     "timeDay": 8076,
-    "timeWeek": 7944,
+    "timeWeek": 6134,
     "timeMonth": 3181,
     "timeYear": 1208,
     "dailyMinutesDown": {}
