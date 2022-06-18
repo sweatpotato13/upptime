@@ -5,7 +5,9 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Github psbadge API server
-    url: https://api.cutewisp.com/api/ac/CuteWisp
+    url: https://psbadge.herokuapp.com/cf/CuteWisp
+  - name: Atcoder User API server
+    url: https://atcoder-api.herokuapp.com/user/CuteWisp
   - name: Blog
     url: https://blog.cutewisp.com
 
