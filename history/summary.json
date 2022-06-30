@@ -13,7 +13,7 @@
     "time": 1606,
     "timeDay": 284,
     "timeWeek": 284,
-    "timeMonth": 1675,
+    "timeMonth": 593,
     "timeYear": 1327,
     "dailyMinutesDown": {}
   },
@@ -22,7 +22,7 @@
     "url": "https://atcoder-api.herokuapp.com/user/CuteWisp",
     "icon": "https://favicons.githubusercontent.com/atcoder-api.herokuapp.com",
     "slug": "atcoder-user-api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
