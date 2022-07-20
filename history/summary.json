@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/psbadge.herokuapp.com",
     "slug": "github-psbadge-api-server",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1752,
-    "timeDay": 4183,
-    "timeWeek": 4930,
+    "time": 1751,
+    "timeDay": 1937,
+    "timeWeek": 4366,
     "timeMonth": 2865,
-    "timeYear": 1639,
+    "timeYear": 1638,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4842,
-    "timeDay": 3744,
-    "timeWeek": 1460,
-    "timeMonth": 4970,
-    "timeYear": 4842,
+    "time": 4764,
+    "timeDay": 1753,
+    "timeWeek": 1573,
+    "timeMonth": 4972,
+    "timeYear": 4764,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 111,
-    "timeWeek": 143,
-    "timeMonth": 202,
-    "timeYear": 150,
+    "timeDay": 338,
+    "timeWeek": 175,
+    "timeMonth": 207,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   }
 ]
