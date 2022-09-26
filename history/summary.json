@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1737,
-    "timeDay": 700,
-    "timeWeek": 621,
-    "timeMonth": 1194,
-    "timeYear": 1890,
+    "time": 1734,
+    "timeDay": 406,
+    "timeWeek": 599,
+    "timeMonth": 1195,
+    "timeYear": 1884,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://atcoder-api.herokuapp.com/user/CuteWisp",
     "icon": "https://favicons.githubusercontent.com/atcoder-api.herokuapp.com",
     "slug": "atcoder-user-api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7063,
-    "timeDay": 12391,
-    "timeWeek": 9979,
-    "timeMonth": 9299,
-    "timeYear": 7063,
+    "time": 7035,
+    "timeDay": 10229,
+    "timeWeek": 9974,
+    "timeMonth": 9310,
+    "timeYear": 7035,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 291,
+    "timeDay": 212,
     "timeWeek": 241,
     "timeMonth": 202,
-    "timeYear": 161,
+    "timeYear": 160,
     "dailyMinutesDown": {}
   }
 ]
