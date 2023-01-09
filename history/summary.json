@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1389,
-    "timeDay": 220,
-    "timeWeek": 225,
-    "timeMonth": 231,
-    "timeYear": 1591,
+    "time": 1388,
+    "timeDay": 378,
+    "timeWeek": 248,
+    "timeMonth": 239,
+    "timeYear": 1588,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5916,
-    "timeDay": 189,
-    "timeWeek": 212,
-    "timeMonth": 235,
-    "timeYear": 5916,
+    "time": 5899,
+    "timeDay": 71,
+    "timeWeek": 195,
+    "timeMonth": 225,
+    "timeYear": 5899,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 173,
-    "timeWeek": 175,
-    "timeMonth": 168,
+    "timeDay": 96,
+    "timeWeek": 163,
+    "timeMonth": 167,
     "timeYear": 172,
     "dailyMinutesDown": {}
   }
